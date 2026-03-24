@@ -1,0 +1,16 @@
+{
+  "name": "config-loader",
+  "version": "1.0.0",
+  "description": "Load config from env, JSON, YAML",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "config",
+    "loader"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
